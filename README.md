@@ -1,5 +1,7 @@
 # 📊 Dashboard de Vendas - Excel
 
+![Dashboard de Vendas](dashboard.png)
+
 Este projeto é uma simulação de um cenário de vendas em uma empresa fictícia. O objetivo é aplicar conceitos de análise de dados e visualização com base em uma planilha Excel, utilizando tabelas dinâmicas, segmentações (slicers) e gráficos interativos.
 
 ---
@@ -26,7 +28,7 @@ Este projeto é uma simulação de um cenário de vendas em uma empresa fictíci
 ## 📁 Estrutura
 
 - `dashboard_vendas.xlsx` — planilha com os dados e o dashboard montado
-- `dados_vendas.csv` (opcional) — versão em CSV dos dados
+- `dados_vendas.csv` — versão em CSV dos dados
 - `README.md` — explicação do projeto
 
 ---
