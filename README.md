@@ -35,7 +35,7 @@ Este projeto é uma simulação de um cenário de vendas em uma empresa fictíci
 
 ## 📈 Principais Insights
 
-- **Produto mais vendido:** Smartphone
+- **Produto mais vendido:** Notebook
 - **Categoria com maior receita:** Eletrônicos
 - **Região com mais vendas:** Sudeste
 - **Mês de maior volume:** Julho (devido à simulação de uma campanha promocional)
