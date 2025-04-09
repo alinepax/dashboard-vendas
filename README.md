@@ -54,13 +54,60 @@ dashboard-vendas/
 
 ## 🖼️ Prévia dos Dashboards
 
-### 🟢 Power BI
+### 🟢 Excel
+
+![Painel Excel](excel/imagem-dashboard-excel.png)
+
+### 🔵 Power BI
 
 ![Painel Power BI](powerbi/painel-powerbi.png)
 
-### 🔵 Excel
+---
 
-![Painel Excel](excel/imagem-dashboard-excel.png)
+## 📗 Detalhes da Versão Excel
+
+Este projeto foi criado no Excel com foco na visualização de dados de vendas. Utilizei Tabelas Dinâmicas, Segmentações de Dados e formatações condicionais para destacar os principais indicadores.
+
+### KPIs incluídos:
+- **Faturamento Total**
+- **Quantidade Vendida**
+- **Ticket Médio**
+
+### Gráficos:
+- Gráfico de colunas (Faturamento por Região)
+- Gráfico de colunas (Faturamento por Produto)
+
+### Recursos adicionais:
+- Segmentação de dados para facilitar a análise por região e produto
+- Estilo visual padronizado com cores consistentes
+- Disposição dos elementos priorizando clareza e foco nos KPIs
+
+📎 Arquivo: `excel/dashboard-vendas.xlsx`  
+🖼️ Imagem: `excel/imagem-dashboard-excel.png`
+
+---
+
+## 📘 Detalhes da Versão Power BI
+
+O painel desenvolvido no Power BI tem como foco a visualização clara e interativa dos dados de vendas. Foram utilizados elementos visuais modernos, ícones personalizados e filtros dinâmicos para melhorar a experiência do usuário.
+
+### KPIs incluídos:
+- 💰 **Valor Total das Vendas**
+- 📦 **Quantidade Vendida**
+- 💳 **Ticket Médio**
+
+### Gráficos utilizados:
+- 📊 Gráfico de colunas agrupadas (Quantidade por Produto e por Região)
+- 🥧 Gráfico de pizza (Participação das Regiões no Valor Total)
+- 🔢 Cartões com KPIs (valores agregados)
+
+### Interatividade:
+- 🔘 Segmentações por Produto e Região
+- 🔄 Interações entre gráficos e KPIs
+- 🖼️ Ícones visuais personalizados para destacar as métricas
+
+📎 Arquivo: `powerbi/dashboard-vendas.pbix`  
+🖼️ Imagem: `powerbi/painel-powerbi.png`
 
 ---
 
@@ -91,37 +138,17 @@ dashboard-vendas/
 
 #### ⚠️ Observações
 
-- Os dados utilizados estão disponíveis na pasta `dados/` no arquivo `vendas.csv`.
+- Os dados utilizados estão disponíveis na pasta `powerbi/` no arquivo `dados_vendas.csv`.
 - Não é necessário instalar complementos para abrir nenhum dos arquivos.
 - As segmentações e filtros funcionam melhor se os arquivos forem abertos diretamente nos softwares indicados (Excel e Power BI Desktop).
 
-
-## 📘 Detalhes da Versão Excel
-
-Este projeto foi criado no Excel com foco na visualização de dados de vendas. Utilizei Tabelas Dinâmicas, Segmentações de Dados e formatações condicionais para destacar os principais indicadores.
-
-### KPIs incluídos:
-- **Faturamento Total**
-- **Quantidade Vendida**
-- **Ticket Médio**
-
-### Gráficos:
-- Gráfico de colunas (Faturamento por Região)
-- Gráfico de colunas (Faturamento por Produto)
-
-### Recursos adicionais:
-- Segmentação de dados para facilitar a análise por região e produto
-- Estilo visual padronizado com cores consistentes
-- Disposição dos elementos priorizando clareza e foco nos KPIs
-
-📎 Arquivo: `excel/dashboard-vendas.xlsx`  
-🖼️ Imagem: `excel/imagem-dashboard-excel.png`
 
 ---
 
 ## 👩‍💻 Sobre a Autora
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/alinedapaz/) 
 📧 Email: aline.santospaz@gmail.com 
 
 🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
