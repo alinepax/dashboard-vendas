@@ -56,9 +56,9 @@ Este projeto é uma simulação de um cenário de vendas em uma empresa fictíci
 
 ## 🚀 Próximos passos
 
-- Reproduzir este dashboard no Google Data Studio ou Power BI
-- Criar nova visualização com Python (matplotlib ou seaborn)
-- Adicionar análise preditiva futura com Python ou Excel
+- Reproduzir este dashboard no Power BI
+- Criar nova visualização com Python (matplotlib e seaborn)
+- Adicionar análise preditiva futura com Python
 
 ---
 
