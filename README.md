@@ -1,69 +1,77 @@
-# 📊 Dashboard de Vendas - Excel
 
-![Dashboard de Vendas](dashboard.png)
+# 📊 Dashboard de Vendas
 
-Este projeto é uma simulação de um cenário de vendas em uma empresa fictícia. O objetivo é aplicar conceitos de análise de dados e visualização com base em uma planilha Excel, utilizando tabelas dinâmicas, segmentações (slicers) e gráficos interativos.
-
----
-
-## 🎯 Objetivos do Projeto
-
-- Organizar e limpar dados em formato tabular (.csv)
-- Criar visualizações interativas com Tabelas Dinâmicas
-- Utilizar segmentações para filtragem dinâmica de dados
-- Apresentar insights relevantes para tomada de decisão
+Este repositório apresenta duas versões do mesmo projeto de análise de vendas: uma desenvolvida no **Excel** e outra no **Power BI**. O objetivo é demonstrar habilidades com visualização de dados, indicadores de desempenho (KPIs) e criação de dashboards interativos e informativos.
 
 ---
 
-## 🛠 Ferramentas Utilizadas
+## 🗂️ Estrutura do Projeto
 
-- **Microsoft Excel**
-- **Tabelas Dinâmicas**
-- **Segmentações (Slicers)**
-- **Gráficos de Coluna e Pizza**
-- Dados fictícios gerados para fins educacionais
-
----
-
-## 📁 Estrutura
-
-- `dashboard_vendas.xlsx` — planilha com os dados e o dashboard montado
-- `dados_vendas.csv` — versão em CSV dos dados
-- `README.md` — explicação do projeto
+```
+excel/    → Dashboard criado no Excel
+powerbi/  → Dashboard criado no Power BI
+```
 
 ---
 
-## 📈 Principais Insights
+## 📈 Funcionalidades dos Dashboards
 
-- **Produto mais vendido:** Notebook
-- **Categoria com maior receita:** Eletrônicos
-- **Região com mais vendas:** Sudeste
-- **Mês de maior volume:** Julho (devido à simulação de uma campanha promocional)
-
----
-
-## 🧩 Funcionalidades do Dashboard
-
-- Gráfico de **Vendas por Produto**
-- Gráfico de **Vendas por Região**
-- **Segmentações interativas** por:
-  - Produto
-  - Categoria
-  - Região
-  - Mês (extraído da Data)
+- KPIs principais: Faturamento, Quantidade Vendida e Ticket Médio  
+- Filtros por Região e Produto  
+- Gráficos dinâmicos e interativos  
+- Layout limpo, moderno e personalizado com cores e ícones
 
 ---
 
-## 🚀 Próximos passos
+## 🧰 Ferramentas Utilizadas
 
-- Reproduzir este dashboard no Power BI
-- Criar nova visualização com Python (matplotlib e seaborn)
-- Adicionar análise preditiva futura com Python
+- ✅ Microsoft Excel
+- ✅ Power BI Desktop
+- 🎨 Design de ícones (Canva/Figma)
 
 ---
 
-## 📬 Contato
+## 🖼️ Prévia dos Dashboards
 
-Criado por **Aline Paz**  
-🔗 [LinkedIn](https://www.linkedin.com/in/alinedapaz/)  
-📧 Email: **aline.santospaz@gmail.com**
+### 🟢 Power BI
+
+![Painel Power BI](powerbi/painel-powerbi.png)
+
+### 🔵 Excel
+
+![Painel Excel](excel/imagem-dashboard-excel.png)
+
+---
+
+## 📘 Detalhes da Versão Excel
+
+Este projeto foi criado no Excel com foco na visualização de dados de vendas. Utilizei Tabelas Dinâmicas, Segmentações de Dados e formatações condicionais para destacar os principais indicadores.
+
+### KPIs incluídos:
+- **Faturamento Total**
+- **Quantidade Vendida**
+- **Ticket Médio**
+
+### Gráficos:
+- Gráfico de colunas (Faturamento por Região)
+- Gráfico de colunas (Faturamento por Produto)
+
+### Recursos adicionais:
+- Segmentação de dados para facilitar a análise por região e produto
+- Estilo visual padronizado com cores consistentes
+- Disposição dos elementos priorizando clareza e foco nos KPIs
+
+📎 Arquivo: `excel/dashboard-vendas.xlsx`  
+🖼️ Imagem: `excel/imagem-dashboard-excel.png`
+
+---
+
+## 👩‍💻 Sobre a Autora
+
+Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
+📧 Email: aline.santospaz@gmail.com
+🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
+
+---
+
+⭐ Se você gostou, deixe uma estrela no repositório!
