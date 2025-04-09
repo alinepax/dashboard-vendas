@@ -123,6 +123,7 @@ Este projeto foi criado no Excel com foco na visualização de dados de vendas. 
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
 📧 Email: aline.santospaz@gmail.com 
+
 🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
 
 ---
