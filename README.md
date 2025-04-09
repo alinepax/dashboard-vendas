@@ -16,12 +16,26 @@ Espero que goste! 💜
 
 ---
 
-## 🗂️ Estrutura do Projeto
+## 📁 Estrutura do Repositório
 
 ```
-excel/    → Dashboard criado no Excel
-powerbi/  → Dashboard criado no Power BI
+dashboard-vendas/
+├── excel/
+│   ├── dashboard-vendas.xlsx
+│   ├── dashboard-vendas-excel.png
+│   └── README.md
+│
+├── powerbi/
+│   ├── dashboard-vendas.pbix
+│   ├── dashboard-vendas-powerbi.png
+│   └── README.md
+│
+├── dados/
+│   └── vendas.csv
+│
+└── README.md
 ```
+
 
 ---
 
