@@ -11,8 +11,7 @@ Os dados são fictícios e representam uma base de vendas com informações de r
 - Aplicar conceitos de **KPI** (indicadores de desempenho)
 - Praticar a construção de dashboards em diferentes plataformas
 
-Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, com foco em **análise visual** e **interpretação de métricas de negócio**.  
-Espero que goste! 💜
+Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, com foco em **análise visual** e **interpretação de métricas de negócio**. Espero que goste! 💜
 
 ---
 
@@ -65,6 +64,38 @@ dashboard-vendas/
 
 ---
 
+### 📌 Como Reproduzir o Projeto
+
+#### 🧾 Requisitos
+
+| Ferramenta     | Versão Recomendável |
+|----------------|---------------------|
+| Excel          | 2016 ou superior (com suporte a gráficos e segmentações) |
+| Power BI       | Power BI Desktop (versão gratuita) – [Baixar aqui](https://powerbi.microsoft.com/pt-br/downloads/) |
+
+#### 🗂️ Passos
+
+##### 📗 Excel
+
+1. Acesse a pasta `excel/` no repositório.
+2. Baixe o arquivo `dashboard-vendas.xlsx`.
+3. Abra no Excel (recomenda-se ativar edição e conteúdo, se solicitado).
+4. Explore o dashboard e as segmentações interativas.
+
+##### 📘 Power BI
+
+1. Acesse a pasta `powerbi/` no repositório.
+2. Baixe o arquivo `dashboard-vendas.pbix`.
+3. Abra no **Power BI Desktop**.
+4. Visualize o painel completo e interaja com os filtros e KPIs.
+
+#### ⚠️ Observações
+
+- Os dados utilizados estão disponíveis na pasta `dados/` no arquivo `vendas.csv`.
+- Não é necessário instalar complementos para abrir nenhum dos arquivos.
+- As segmentações e filtros funcionam melhor se os arquivos forem abertos diretamente nos softwares indicados (Excel e Power BI Desktop).
+
+
 ## 📘 Detalhes da Versão Excel
 
 Este projeto foi criado no Excel com foco na visualização de dados de vendas. Utilizei Tabelas Dinâmicas, Segmentações de Dados e formatações condicionais para destacar os principais indicadores.
@@ -91,8 +122,7 @@ Este projeto foi criado no Excel com foco na visualização de dados de vendas. 
 ## 👩‍💻 Sobre a Autora
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
-📧 Email: aline.santospaz@gmail.com
-
+📧 Email: aline.santospaz@gmail.com 
 🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
 
 ---
