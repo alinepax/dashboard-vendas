@@ -22,13 +22,11 @@ Espero que goste! 💜
 dashboard-vendas/
 ├── excel/
 │   ├── dashboard-vendas.xlsx
-│   ├── dashboard-vendas-excel.png
-│   └── README.md
+│   └── imagem-vendas-excel.png
 │
 ├── powerbi/
 │   ├── dashboard-vendas.pbix
-│   ├── dashboard-vendas-powerbi.png
-│   └── README.md
+│   └── painel-powerbi.png
 │
 ├── dados/
 │   └── vendas.csv
