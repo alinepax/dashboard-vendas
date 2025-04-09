@@ -148,9 +148,8 @@ O painel desenvolvido no Power BI tem como foco a visualização clara e interat
 ## 👩‍💻 Sobre a Autora
 
 Desenvolvido por **[Aline Paz](https://github.com/alinepax)**  
-📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/alinedapaz/) 
-📧 Email: aline.santospaz@gmail.com 
-
+📫 Me encontre no [LinkedIn](https://www.linkedin.com/in/alinedapaz/)  
+📧 Email: aline.santospaz@gmail.com  
 🎯 Este projeto faz parte do meu portfólio como profissional em transição para a área de Dados e Tecnologia.
 
 ---
