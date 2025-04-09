@@ -1,16 +1,18 @@
 
-## 📊 Dashboard de Vendas
+## 📊 Dashboard de Vendas – Excel & Power BI
 
-Este projeto tem como objetivo criar dashboards visuais a partir de dados de vendas fictícios, utilizando **Microsoft Excel** e **Power BI**. 
+Este projeto foi desenvolvido com o objetivo de praticar e demonstrar minhas habilidades em **visualização de dados**, utilizando duas ferramentas: **Excel** e **Power BI**. 🧠💻
 
-A ideia é apresentar de forma clara e interativa os principais indicadores de desempenho (KPIs), como:
+Os dados são fictícios e representam uma base de vendas com informações de regiões, produtos e valores.
 
-- Total de vendas
-- Ticket médio
-- Quantidade de produtos vendidos
+### 🎯 Objetivos do projeto:
+- Exibir **indicadores comerciais importantes** de forma clara e visual
+- Criar painéis com foco em **tomada de decisão**
+- Aplicar conceitos de **KPI** (indicadores de desempenho)
+- Praticar a construção de dashboards em diferentes plataformas
 
-O painel foi desenvolvido para fins de aprendizado, e faz parte do meu portfólio de projetos como estudante de Ciência de Dados, com foco em visualização de dados e análise de indicadores comerciais.
-
+Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, com foco em **análise visual** e **interpretação de métricas de negócio**.  
+Espero que goste! 💜
 
 ---
 
