@@ -1,7 +1,16 @@
 
-# 📊 Dashboard de Vendas
+## 📊 Dashboard de Vendas
 
-Este repositório apresenta duas versões do mesmo projeto de análise de vendas: uma desenvolvida no **Excel** e outra no **Power BI**. O objetivo é demonstrar habilidades com visualização de dados, indicadores de desempenho (KPIs) e criação de dashboards interativos e informativos.
+Este projeto tem como objetivo criar dashboards visuais a partir de dados de vendas fictícios, utilizando **Microsoft Excel** e **Power BI**. 
+
+A ideia é apresentar de forma clara e interativa os principais indicadores de desempenho (KPIs), como:
+
+- Total de vendas
+- Ticket médio
+- Quantidade de produtos vendidos
+
+O painel foi desenvolvido para fins de aprendizado, e faz parte do meu portfólio de projetos como estudante de Ciência de Dados, com foco em visualização de dados e análise de indicadores comerciais.
+
 
 ---
 
