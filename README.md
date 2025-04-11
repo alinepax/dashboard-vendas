@@ -39,7 +39,7 @@ dashboard-vendas/
 │   └── requirements.txt          # Dependências para rodar os notebooks
 |
 ├── sql/                          # Análise usando SQL no Jupyter
-│   └── notebook-sql.ipynb        # Notebook com comandos SQL
+│   └── notebook-sql.ipynb        # Notebook com análises SQL usando SQLite
 |
 └── README.md                     # Documentação do projeto
 ```
