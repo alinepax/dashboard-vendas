@@ -20,20 +20,20 @@ Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, co
 
 ```
 dashboard-vendas/
-├── excel/
-│   ├── dashboard_vendas.xlsx
-│   └── imagem-vendas-excel.png
+├── excel/ 
+│   ├── dashboard_vendas.xlsx     # Dashboard criado no Excel
+│   └── imagem-vendas-excel.png   # Print do dashboard
 │
 ├── powerbi/
-│   ├── dados_vendas.csv
-│   ├── dashboard-vendas.pbix
-│   └── painel-powerbi.png
+│   ├── dados_vendas.csv          # Fonte de dados utilizada
+│   ├── dashboard-vendas.pbix     # Dashboard criado no Power BI
+│   └── painel-powerbi.png        # Print do painel no Power BI
 │
 ├── python/
-│   ├── img/            # Gráficos gerados pelo Python
-│   ├── insights/       # Insights obtidos pela análise dos gráficos
-│   ├── notebooks/      # Arquivo Python
-│   └── requirements.txt
+│   ├── img/                      # Gráficos gerados pelo Python
+│   ├── insights/                 # Insights obtidos pela análise dos gráficos
+│   ├── notebooks/                # Arquivo Python
+│   └── requirements.txt          # Dependências para rodar os notebooks
 │
 └── README.md
 ```
