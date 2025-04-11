@@ -1,15 +1,16 @@
 
-## 📊 Dashboard de Vendas – Excel & Power BI
+## 📊 Dashboard de Vendas
 
-Este projeto foi desenvolvido com o objetivo de praticar e demonstrar minhas habilidades em **visualização de dados**, utilizando duas ferramentas: **Excel** e **Power BI**. 🧠💻
+Projeto de análise de vendas desenvolvido para fins de aprendizado e portfólio.  
+Os dados foram tratados e explorados com Excel, Python (Pandas, Seaborn, Matplotlib) e visualizados no Power BI.
 
-Os dados são fictícios e representam uma base de vendas com informações de regiões, produtos e valores.
+OBS.: Os dados são fictícios e representam uma base de vendas com informações de regiões, produtos e valores.
 
 ### 🎯 Objetivos do projeto:
 - Exibir **indicadores comerciais importantes** de forma clara e visual
 - Criar painéis com foco em **tomada de decisão**
 - Aplicar conceitos de **KPI** (indicadores de desempenho)
-- Praticar a construção de dashboards em diferentes plataformas
+- Analisar os dados de vendas para gerar **insights estratégicos**, visualizações claras e treinar habilidades com ferramentas de dados.
 
 Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, com foco em **análise visual** e **interpretação de métricas de negócio**. Espero que goste! 💜
 
@@ -27,7 +28,24 @@ dashboard-vendas/
 │   ├── dados_vendas.csv
 │   ├── dashboard-vendas.pbix
 │   └── painel-powerbi.png
-│  
+│
+├── python/
+│   ├── img/
+│   |   ├── distribuicao_vendas_regiao.png
+│   |   ├── participacao_produto_vendas.png
+│   |   ├── produtos_mais_vendidos.png
+│   |   ├── receita_por_regiao.png
+|   |   └── total_vendas_regiao.png
+│   └── insights/
+│   |   ├── distribuicao_vendas_regiao.md
+│   |   ├── participacao_produto_vendas.md
+│   |   ├── produtos_mais_vendidos.md
+│   |   ├── receita_por_regiao.md
+│   |   ├── ticket_medio.md
+|   |   ├── total_vendas_categoria.md
+|   |   └── total_vendas_regiao.png
+│   ├── notebooks
+│   └── requirements.txt
 │
 └── README.md
 ```
