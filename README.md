@@ -30,21 +30,9 @@ dashboard-vendas/
 │   └── painel-powerbi.png
 │
 ├── python/
-│   ├── img/
-│   |   ├── distribuicao_vendas_regiao.png
-│   |   ├── participacao_produto_vendas.png
-│   |   ├── produtos_mais_vendidos.png
-│   |   ├── receita_por_regiao.png
-|   |   └── total_vendas_regiao.png
-│   └── insights/
-│   |   ├── distribuicao_vendas_regiao.md
-│   |   ├── participacao_produto_vendas.md
-│   |   ├── produtos_mais_vendidos.md
-│   |   ├── receita_por_regiao.md
-│   |   ├── ticket_medio.md
-|   |   ├── total_vendas_categoria.md
-|   |   └── total_vendas_regiao.png
-│   ├── notebooks
+│   ├── img/            # Gráficos gerados pelo Python
+│   ├── insights/       # Insights obtidos pela análise dos gráficos
+│   ├── notebooks/      # Arquivo Python
 │   └── requirements.txt
 │
 └── README.md
