@@ -66,6 +66,7 @@ dashboard-vendas/
 
 - ✅ Microsoft Excel
 - ✅ Power BI Desktop
+- ✅ Python (Pandas, Seaborn, Matplotlib)
 - 🎨 Design de ícones (Canva/Figma)
 
 ---
@@ -126,6 +127,40 @@ O painel desenvolvido no Power BI tem como foco a visualização clara e interat
 
 📎 Arquivo: `powerbi/dashboard-vendas.pbix`  
 🖼️ Imagem: `powerbi/painel-powerbi.png`
+
+---
+
+## 📙 Detalhes da Versão Python
+
+A etapa em Python foi responsável pelo tratamento e análise inicial dos dados de vendas. Utilizei bibliotecas como **Pandas**, **Seaborn** e **Matplotlib** para gerar visualizações e insights antes da construção dos dashboards finais.
+
+### Bibliotecas utilizadas:
+- `pandas` para manipulação de dados
+- `matplotlib` e `seaborn` para visualizações
+- `os` e `pathlib` para manipulação de diretórios
+
+### Análises realizadas:
+- 📍 Distribuição das vendas por região
+- 💼 Receita total por categoria de produto
+- 🧮 Cálculo do ticket médio
+- 📊 Participação de cada produto nas vendas
+- 🔍 Identificação dos produtos mais vendidos
+
+📁 Os gráficos gerados estão na pasta: `python/img/`  
+📄 Os insights estão descritos em: `python/insights/`  
+📜 Para instalar as dependências, utilize o `requirements.txt`.
+
+### Como executar:
+
+1. Acesse a pasta `python/`
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+3. Execute o notebook ou scripts disponíveis para visualizar os gráficos e análises geradas.
+
+📎 Notebooks e scripts: `python/notebooks/`  
+📜 Dependências: `python/requirements.txt`
 
 ---
 
