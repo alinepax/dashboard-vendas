@@ -20,6 +20,9 @@ Este é um projeto do meu portfólio como estudante de **Ciência de Dados**, co
 
 ```
 dashboard-vendas/
+├── data/                         # Base de dados usada na análise
+│   └── vendas.db                 # Banco de dados SQLite com os dados de vendas
+|
 ├── excel/ 
 │   ├── dashboard_vendas.xlsx     # Dashboard criado no Excel
 │   └── imagem-vendas-excel.png   # Print do dashboard
@@ -34,8 +37,11 @@ dashboard-vendas/
 │   ├── insights/                 # Insights obtidos pela análise dos gráficos
 │   ├── notebooks/                # Arquivo Python
 │   └── requirements.txt          # Dependências para rodar os notebooks
-│
-└── README.md
+|
+├── sql/                          # Análise usando SQL no Jupyter
+│   └── notebook-sql.ipynb        # Notebook com comandos SQL
+|
+└── README.md                     # Documentação do projeto
 ```
 
 ---
