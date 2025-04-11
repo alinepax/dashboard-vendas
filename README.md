@@ -50,6 +50,15 @@ dashboard-vendas/
 └── README.md
 ```
 
+---
+
+## 🧰 Ferramentas Utilizadas
+
+- ✅ Microsoft Excel
+- ✅ Power BI Desktop
+- ✅ Python (Pandas, Seaborn, Matplotlib)
+- 🎨 Design de ícones (Canva/Figma)
+
 
 ---
 
@@ -59,15 +68,6 @@ dashboard-vendas/
 - Filtros por Região e Produto  
 - Gráficos dinâmicos e interativos  
 - Layout limpo, moderno e personalizado com cores e ícones
-
----
-
-## 🧰 Ferramentas Utilizadas
-
-- ✅ Microsoft Excel
-- ✅ Power BI Desktop
-- ✅ Python (Pandas, Seaborn, Matplotlib)
-- 🎨 Design de ícones (Canva/Figma)
 
 ---
 
