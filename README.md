@@ -81,7 +81,16 @@ dashboard-vendas/
 
 ![Painel Power BI](powerbi/painel-powerbi.png)
 
----
+## 📌 Índice de Insights (Python)
+
+Abaixo estão os insights extraídos a partir da análise com Python. Cada item contém uma explicação e visualização gerada com bibliotecas como Pandas, Seaborn e Matplotlib:
+
+- [Distribuição das Vendas por Região](python/insights/distribuicao_vendas_regiao.md): Entenda como as vendas estão distribuídas geograficamente.
+- [Participação de Cada Produto nas Vendas](python/insights/participacao_produto_vendas.md): Veja quais produtos dominam a receita total.
+- [Produtos Mais Vendidos](python/insights/produtos_mais_vendidos.md): Descubra quais itens lideram em volume de vendas.
+- [Receita por Região](python/insights/receita_por_regiao.md): Compare o faturamento obtido em cada localidade.
+- [Ticket Médio por Produto ou Região](python/insights/ticket_medio.md): Analise o valor médio gasto por cliente em cada compra.
+- [Total de Vendas por Categoria](python/insights/total_vendas_categoria.md): Observe quais categorias geraram maior receita.
 
 ## 📗 Detalhes da Versão Excel
 
