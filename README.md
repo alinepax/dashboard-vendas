@@ -48,10 +48,12 @@ dashboard-vendas/
 
 ## 🧰 Ferramentas Utilizadas
 
-- ✅ Microsoft Excel
-- ✅ Power BI Desktop
-- ✅ Python (Pandas, Seaborn, Matplotlib)
-- 🎨 Design de ícones (Canva/Figma)
+- ✅ Microsoft Excel — para criação de dashboards com Tabelas Dinâmicas e segmentações
+- ✅ Power BI Desktop  — para visualizações interativas e filtros dinâmicos
+- ✅ Python (Pandas, Seaborn, Matplotlib) — para análise exploratória e visualizações
+- ✅ SQLite — consultas SQL usando banco de dados relacional
+- ✅ Jupyter Notebook — ambiente interativo para execução das análises em Python e SQL
+- 🎨 Design de ícones e layout — criados com Canva/Figma para deixar os dashboards mais visuais
 
 
 ---
