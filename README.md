@@ -2,7 +2,7 @@
 ## 📊 Dashboard de Vendas
 
 Projeto de análise de vendas desenvolvido para fins de aprendizado e portfólio.  
-Os dados foram tratados e explorados com Excel, Python (Pandas, Seaborn, Matplotlib) e visualizados no Power BI.
+Os dados foram tratados e explorados com Excel, Python (Pandas, Seaborn, Matplotlib, SQL (SQLite) e visualizados no Power BI.
 
 OBS.: Os dados são fictícios e representam uma base de vendas com informações de regiões, produtos e valores.
 
@@ -86,6 +86,14 @@ Abaixo estão os insights extraídos a partir da análise com Python. Cada item 
 - [Ticket Médio por Produto ou Região](python/insights/ticket_medio.md): Analise o valor médio gasto por cliente em cada compra.
 - [Total de Vendas por Categoria](python/insights/total_vendas_categoria.md): Observe quais categorias geraram maior receita.
 
+## 📌 Índice de Insights (SQLite)
+
+Abaixo estão os insights extraídos a partir da análise com SQLite. Cada item contém uma explicação e visualização gerada com bibliotecas como Pandas, Seaborn e Matplotlib:
+
+- [Produtos Mais Vendidos](sql/insights/produtos_mais_vendidos_sql.md): Descubra quais itens lideram em volume de vendas.
+- [Receita por Categoria](sql/insights/total_vendas_categoria_sql.md): Compare o faturamento obtido de cada categoria.
+- [Vendas por Região](sql/insights/vendas_por_regiao_sql.md): Compare o faturamento obtido em cada localidade.
+
 ## 📗 Detalhes da Versão Excel
 
 Este projeto foi criado no Excel com foco na visualização de dados de vendas. Utilizei Tabelas Dinâmicas, Segmentações de Dados e formatações condicionais para destacar os principais indicadores.
@@ -167,37 +175,31 @@ A etapa em Python foi responsável pelo tratamento e análise inicial dos dados 
 
 ---
 
-### 📌 Como Reproduzir o Projeto
+## 🧮 Detalhes da Versão SQL (SQLite)
 
-#### 🧾 Requisitos
+Além das análises em Python, o projeto conta com uma versão que utiliza **SQLite** para armazenar e consultar os dados de vendas de forma relacional. Essa etapa foi desenvolvida em um notebook Jupyter, demonstrando como a linguagem SQL pode ser aplicada para gerar insights com consultas diretas no banco de dados.
 
-| Ferramenta     | Versão Recomendável |
-|----------------|---------------------|
-| Excel          | 2016 ou superior (com suporte a gráficos e segmentações) |
-| Power BI       | Power BI Desktop (versão gratuita) – [Baixar aqui](https://powerbi.microsoft.com/pt-br/downloads/) |
+### Ferramentas e Tecnologias:
+- `sqlite3` para criação e conexão com o banco de dados
+- `pandas` para conversão dos dados e visualização das consultas
+- `Jupyter Notebook` como ambiente interativo de análise
 
-#### 🗂️ Passos
+### Principais Consultas Realizadas:
+- 🔹 **Faturamento total por produto**
+- 🔹 **Média de vendas por região**
+- 🔹 **Produtos mais vendidos**
+- 🔹 **Análise por categoria**
 
-##### 📗 Excel
+📎 Notebook: `sql/notebook-sql.ipynb`  
+🗃️ Banco de dados: `data/vendas.db`
 
-1. Acesse a pasta `excel/` no repositório.
-2. Baixe o arquivo `dashboard-vendas.xlsx`.
-3. Abra no Excel (recomenda-se ativar edição e conteúdo, se solicitado).
-4. Explore o dashboard e as segmentações interativas.
+### Como executar:
 
-##### 📘 Power BI
-
-1. Acesse a pasta `powerbi/` no repositório.
-2. Baixe o arquivo `dashboard-vendas.pbix`.
-3. Abra no **Power BI Desktop**.
-4. Visualize o painel completo e interaja com os filtros e KPIs.
-
-#### ⚠️ Observações
-
-- Os dados utilizados estão disponíveis na pasta `powerbi/` no arquivo `dados_vendas.csv`.
-- Não é necessário instalar complementos para abrir nenhum dos arquivos.
-- As segmentações e filtros funcionam melhor se os arquivos forem abertos diretamente nos softwares indicados (Excel e Power BI Desktop).
-
+```bash
+pip install notebook
+cd sql/
+jupyter notebook notebook-sql.ipynb
+```
 
 ---
 
@@ -211,3 +213,10 @@ Desenvolvido por **[Aline Paz](https://github.com/alinepax)**
 ---
 
 ⭐ Se você gostou, deixe uma estrela no repositório!
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da **[Licença MIT](https://opensource.org/licenses/MIT)**.  
+Sinta-se à vontade para usar, modificar e compartilhar com os devidos créditos.
